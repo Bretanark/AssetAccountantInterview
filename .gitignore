@@ -1,0 +1,29 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# User-specific IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.DotSettings.user
+
+# Test and diagnostic output
+TestResults/
+*.coverage
+*.coveragexml
+*.log
+*.dmp
+*.mdmp
+*.pid
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
